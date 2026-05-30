@@ -157,7 +157,7 @@ class SaiLakshman:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imSai-py&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+<img src="[https://github-readme-streak-stats.herokuapp.com/?user=imSai-py&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF](https://streak-stats.demolab.com/?user=imSai-py&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)" />
 
 </div>
 
