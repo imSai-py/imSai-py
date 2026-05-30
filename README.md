@@ -141,9 +141,9 @@ class SaiLakshman:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imSai-py&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img height="180" src="https://github-readme-stats-one.vercel.app/api?username=imSai-py&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imSai-py&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+<img height="180" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=imSai-py&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 
 </div>
 
@@ -165,7 +165,7 @@ class SaiLakshman:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=imSai-py&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy-one.vercel.app/?username=imSai-py&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 
 </div>
 
