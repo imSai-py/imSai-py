@@ -6,15 +6,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sai%20Lakshman&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Python%20%7C%20Java%20%7C%20React&descAlignY=56&descSize=18" />
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      TYPING ANIMATION                              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Building+scalable+full-stack+applications;Python+%7C+Java+%7C+React+%7C+Django+%7C+Flask;AI+Integration+%7C+REST+APIs+%7C+Firebase;Clean+code+%2B+Great+UX+%3D+Real+Impact)](https://git.io/typing-svg)
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         PROFILE BADGES                             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <p>
   <a href="mailto:sailakshman212005@gmail.com">
@@ -157,7 +149,7 @@ class SaiLakshman:
 
 <div align="center">
 
-<img src="[https://github-readme-streak-stats.herokuapp.com/?user=imSai-py&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF](https://streak-stats.demolab.com/?user=imSai-py&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)" />
+<img src="https://streak-stats.demolab.com/?user=imSai-py&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
 
 </div>
 
@@ -173,7 +165,7 @@ class SaiLakshman:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=imSai-py&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=imSai-py&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 
 </div>
 
@@ -241,3 +233,4 @@ class SaiLakshman:
 *"Clean code. Real impact. One commit at a time."*
 
 </div>
+
